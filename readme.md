@@ -9,6 +9,7 @@
 * _HTML_
 * _CSS_
 * _Bootstrap_
+* _Javascript_
 
 
 ## Description
