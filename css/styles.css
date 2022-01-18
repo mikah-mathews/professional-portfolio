@@ -8,3 +8,13 @@
   margin: 2rem auto 2rem auto;   
   width: 1000px;
 }
+
+ol {
+  border-color: hotpink;
+  border-style: dotted;
+  padding: 20px;
+}
+
+img {
+  float: left;
+}
